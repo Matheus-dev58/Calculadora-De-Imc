@@ -3,4 +3,4 @@ Uma calculadora de IMC feita em java com interface gráfica, a interface foi fei
 
 ![Screnshot](https://github.com/Matheus-dev58/Calculadora-De-Imc/blob/main/IMCCalculator/src/Img/Screnshot.png)
 
-
+Futuramente eu pretendo adicionar mais algumas funcionalidades ao programa, como, por exemplo, a opção do usuário poder informar o seu gênero, já tabela de IMC tem diferenças de gênero para gênero.
