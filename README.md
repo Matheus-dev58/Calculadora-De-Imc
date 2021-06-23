@@ -3,4 +3,4 @@ Uma calculadora de IMC feita em java com interface gráfica, a interface foi fei
 
 ![publicity](https://github.com/Matheus-dev58/Calculadora-De-Imc/blob/main/IMCCalculator/src/Img/publicity.png)
 
-![funcionamento](https://github.com/Matheus-dev58/Calculadora-De-Imc/blob/main/IMCCalculator/src/Img/funcionamento.png)
+
